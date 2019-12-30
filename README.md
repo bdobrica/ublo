@@ -11,7 +11,7 @@ this framework is intended to be used as mainly an easy to build CRUD interface 
 ## file structure ##
 
 the file structure will be kept clear and simple:
-
+~~~~
 web/----+
 	+-config.php			: main config file
 	+-index.php			: this is the main entry point for the web interface
@@ -60,6 +60,7 @@ class/--+
 	+-events/
 	+-modules/
 	+-vendor/
+~~~~
 
 ## common objects ##
 
